@@ -6,7 +6,3 @@
 	path = backend
 	url = git@github.com:sudiptog81/mlh-orihack-backend
 	branch = main
-[submodule "docs"]
-	path = docs
-	url = git@github.com:sudiptog81/mlh-orihack-docs
-	branch = main
