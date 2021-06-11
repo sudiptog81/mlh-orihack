@@ -1,0 +1,72 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jmc529",
+      "name": "Joe Conwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9061382?v=4",
+      "profile": "https://conwell.info",
+      "contributions": [
+        "design",
+        "code",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "desirekaleba",
+      "name": "Desire Kaleba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46345872?v=4",
+      "profile": "https://github.com/desirekaleba",
+      "contributions": [
+        "code",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "und3fined-v01d",
+      "name": "Soham Parekh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55358652?v=4",
+      "profile": "https://sohamp.dev",
+      "contributions": [
+        "code",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "sudiptog81",
+      "name": "Sudipto Ghosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11232940?v=4",
+      "profile": "https://sudipto.ghosh.pro",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "review"
+      ]
+    },
+    {
+      "login": "aayush-05",
+      "name": "Aayush Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47032027?v=4",
+      "profile": "http://linkedin.com/in/aayush-gupta-447978164/",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "mlh-orihack",
+  "projectOwner": "sudiptog81",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
