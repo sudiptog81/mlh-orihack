@@ -1,6 +1,6 @@
 # MLH OriHack
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Pod 3.0.0 Team 2
@@ -20,6 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/desirekaleba"><img src="https://avatars.githubusercontent.com/u/46345872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Desire Kaleba</b></sub></a><br /><a href="https://github.com/sudiptog81/mlh-orihack/commits?author=desirekaleba" title="Code">💻</a> <a href="#ideas-desirekaleba" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/sudiptog81/mlh-orihack/pulls?q=is%3Apr+reviewed-by%3Adesirekaleba" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://sohamp.dev"><img src="https://avatars.githubusercontent.com/u/55358652?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Soham Parekh</b></sub></a><br /><a href="https://github.com/sudiptog81/mlh-orihack/commits?author=und3fined-v01d" title="Code">💻</a> <a href="#ideas-und3fined-v01d" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/sudiptog81/mlh-orihack/pulls?q=is%3Apr+reviewed-by%3Aund3fined-v01d" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://sudipto.ghosh.pro"><img src="https://avatars.githubusercontent.com/u/11232940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudipto Ghosh</b></sub></a><br /><a href="https://github.com/sudiptog81/mlh-orihack/commits?author=sudiptog81" title="Code">💻</a> <a href="https://github.com/sudiptog81/mlh-orihack/commits?author=sudiptog81" title="Documentation">📖</a> <a href="#ideas-sudiptog81" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/sudiptog81/mlh-orihack/pulls?q=is%3Apr+reviewed-by%3Asudiptog81" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://linkedin.com/in/aayush-gupta-447978164/"><img src="https://avatars.githubusercontent.com/u/47032027?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aayush Gupta</b></sub></a><br /><a href="https://github.com/sudiptog81/mlh-orihack/commits?author=aayush-05" title="Code">💻</a> <a href="https://github.com/sudiptog81/mlh-orihack/commits?author=aayush-05" title="Tests">⚠️</a> <a href="https://github.com/sudiptog81/mlh-orihack/commits?author=aayush-05" title="Documentation">📖</a></td>
   </tr>
 </table>
 
