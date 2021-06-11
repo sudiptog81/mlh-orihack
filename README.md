@@ -1,11 +1,79 @@
-# MLH OriHack
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# MLH OriHack Board
 
-Pod 3.0.0 Team 2
+![Node.js Supported Version](https://img.shields.io/badge/node-%3E%3D14.17.0-blue?style=flat-square)
+[![Frontend Dependencies](https://img.shields.io/david/sudiptog81/mlh-orihack-frontend?label=frontend&style=flat-square)](https://github.com/sudiptog81/mlh-orihack-frontend/)
+[![Backend Dependencies](https://img.shields.io/david/sudiptog81/mlh-orihack-backend?label=backend&style=flat-square)](https://github.com/sudiptog81/mlh-orihack-backend/)
+![License](https://img.shields.io/github/license/sudiptog81/mlh-orihack?style=flat-square) [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 
+As developers we sometimes forget to reach out for help from others. We get wrapped up in a problem and knock our heads around searching for the most optimized anwer. To attempt to solve this, we created a social platform where users can post issues or PRs linked to open source projects from GitHub. Then using their feed they can engage with other developers to both get valuable feedback and pose suggestions.
 
+![Screenshot](https://i.imgur.com/eW9ROCe.png)
+
+## Technologies
+
+- Vue.js
+- Vuex
+- [Stylex](https://github.com/ladifire-opensource/stylex)
+- MongoDB
+- Express.js
+- Node.js
+
+## Getting Started
+
+Clone this repository along with all submodules and navigate to the cloned repository:
+
+```bash
+$ git clone --recurse-submodules https://github.com/sudiptog81/mlh-orihack.git
+$ cd mlh-orihack
+```
+
+Navigate to the `frontend` folder, install project dependencies and create a production build:
+
+```bash
+mlh-orihack $ cd frontend
+frontend $ npm install
+frontend $ npm run build
+```
+
+Navigate to the `backend` folder, create a new file called `.env` from the given template in [`.env.example`](https://github.com/sudiptog81/mlh-orihack-backend/blob/main/.env.example):
+
+```bash
+frontend $ cd ../backend
+backend $ cp .env.example .env
+```
+
+Go to GitHub Developer Settings and create a new GitHub OAuth Application, note down the Client ID and generate a new Client Secret. Populate the Callback URL field with `http://localhost:3000/auth/github/callback` to work with the application locally. This would also be the time to note down the MongoDB connection URI. Populate the values in `.env` with these details.
+
+Now, install project dependencies and start the application, while still being in the `backend` folder:
+
+```bash
+backend $ npm install
+backend $ npm run start
+```
+
+Congratulations, the application should now be running at `http://localhost:3000/`.
+
+## Development
+
+If you want to contribute to this project, you will need to set up a development environment. Ensure you can use the application after following the instructions given in the previous section.
+
+On a terminal emulator, navigate to the `frontend` folder and execute the following command:
+
+```bash
+frontend $ npm run serve
+```
+
+On another terminal, navigate to the `backend` folder and execute the following command:
+
+```bash
+backend $ npm run dev
+```
+
+You can now access the application running on `https://localhost:8080/`. The development server will proxy all requests to the backend whenever needed.
+
+## License
+
+[The MIT Open Source License](./LICENSE.md).
 
 ## Contributors ✨
 
@@ -30,3 +98,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+This repository was created by the members of Pod 3.0.0 "Fast Tortoise" for the MLH Fellowship Orientation Hackathon.
